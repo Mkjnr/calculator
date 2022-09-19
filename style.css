@@ -1,0 +1,31 @@
+form{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.container{
+    margin: 250px 580px;
+    background-color: brown;
+    width: 200px;
+}
+
+input{
+    width: 180px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+select{
+    width: 140px;
+    margin-top: 4px;
+}
+
+button{
+    width: 100px;
+}
+
+.secondContainer{
+    background-color: white;
+    border: solid black 1px;
+}
